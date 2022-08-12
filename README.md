@@ -1,5 +1,5 @@
-# Week - NULL
-1. Hafta - 1. Ödev
+# Week - 1
+1. Ödev
 
 # Homework 
 let arr1 = ['2', 'a', '3', 3, 4, 3, 5, 5]
